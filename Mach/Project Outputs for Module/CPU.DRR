@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CPU.PcbDoc   9/12/2019  11:50:26 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CPU-RoundHoles.TXT
+ASCII SlotHoles File : CPU-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          318              76.78 Inch (1950.30 mm)
+T2        27.6mil (0.70104mm)      Round          18               1.58 Inch (40.18 mm)
+T3        31mil (0.7874mm)         Round          2                0.17 Inch (4.39 mm)
+T4        31mil (0.7874mm)         Slot           2                0.61 Inch (15.42 mm)
+T5        36mil (0.9144mm)         Round          28               9.85 Inch (250.20 mm)
+T6        36.2mil (0.91948mm)      Round          8                0.65 Inch (16.62 mm)
+T7        39.4mil (1.00076mm)      Round          20               2.00 Inch (50.80 mm)
+T8        43.3mil (1.09982mm)      Round          4                0.30 Inch (7.62 mm)
+T9        50mil (1.27mm)           Round          2                0.31 Inch (8.00 mm)
+T10       55.1mil (1.39954mm)      Round          60               20.07 Inch (509.77 mm)
+T11       78.7mil (1.99898mm)      Round          6                3.83 Inch (97.41 mm)
+T12       90.6mil (2.30124mm)      Round          8                2.27 Inch (57.71 mm)
+T13       126mil (3.2004mm)        Round          8                22.92 Inch (582.21 mm)
+---------------------------------------------------------------------------
+Totals                                            484              141.36 Inch (3590.63 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
