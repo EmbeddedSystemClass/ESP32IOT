@@ -1,0 +1,36 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Module.PrjPcb|ReportField=ProjectFullPath~E:\Desktop 2019\IoT\ESP32 IOT\Module\Module.PrjPcb|ReportField=Title~Bill of Materials For Project [Module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~83|ReportField=ReportTime~11:47:48 AM|ReportField=ReportDate~9/12/2019|ReportField=ReportDateTime~9/12/2019 11:47:48 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Module.PrjPcb|ReportField=DataSourceFullPath~E:\Desktop 2019\IoT\ESP32 IOT\Module\Module.PrjPcb
+PIN 3V|Lithium Battery Holder for CR2032 3V Cell|BT1|PIN CR1220-SMD|PIN 3V|1
+104|Cap SMD|C1, C2, C3, C4, C5, C7, C11, C13|SM-0805|CM|8
+47uF/16V|Cap 100uF/35V - 470uF/16V|C6, C10|WCAP-AS5H_6.3x5.5|CP3|2
+10µ|Capacitor SMD Tantalum 10uF 20% 10V 0805|C8|CAPMP3216X180N|CAPT_10u_0805_10V|1
+100uF/35V|Cap 100uF/35V - 470uF/16V|C12|WCAP-AS5H_8x10.5|CP3|1
+TVS P6KE30A|Diode Zenner|D1, D2|DO-214AA_Unidirectional|DZ|2
+12V|DIODE GEN PURP 75V 200MA LLDS|DZ5, DZ7, DZ8, DZ10, DZ11, DZ13, DZ14, DZ16|DIOS 1S2P1406H|DIODE Zener|8
+Wroom 32D||ESP1|MODULE_ESP-WROOM-32|ESP-WROOM-32|1
+Header 10x2|Header 10x2|HD1|Hed2X10S|HED10X2|1
+Header 2|Header 2 (Green)|HDN1|KF211V- 2|Hed2|1
+LM1117|3v3|IC1|SOT223-4N|LM1117|1
+12V|Header 2 (Green)|INPUT-DC1, OUT-DC1|KF211V- 2|Hed2|2
+Connector 3x2|Connector 3x2|J-IN1|JP3x2|JP3x2|1
+Jumper 2|Jumper 2|JC9, JC10, JC11, JC12, JC13, JC14, JC15, JC16|JP2|JP 2|8
+JP3|Connector 3|JD211RXASK, JTX001|JP3|Con3|2
+Header 8|KF211R-5.0|KFD|KF211V- 8|KF 8|1
+Header 16|KF211R-5.0|KFIN1|KF211V- 16|KF 16|1
+LED|LED Single colour Green and Red|LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18|LED0805|LED|10
+SM-DLB20A-20W||N1|SM-DLB20A|SM-DLB20A-20W|1
+TLP2904|PC817 OPTO|OPTO2, OPTO4|SO-16|PC817 x 4|2
+61300421821|2.54 mm Dual Socket Header, 04p|PRO|61300421121|JP2x2 2.54MM|1
+100|Resistor 1/4W|R1, R7|R-0805|R|2
+1k|Resistor 1/4W|R2, R4, R5, R6|R-0805|R|4
+10k|Resistor 1/4W|R3|R-0805|R|1
+1K||RN3, RN4, RNT1|RES P4 Dual 0805/2012|Respack 4 Dual|3
+SW-SMD|Switch|RST1|SW-SMD|SW-SMD|1
+DS3231|I2C RTC/TCXO/Crystal|RTC1|SOIC127P750X1030-16N|DS3231|1
+1k|Resistor 1/4W|RZ5, RZ7, RZ8, RZ10, RZ11, RZ13, RZ14, RZ16|SM-1206|R|8
+693071010811|Micro SD Card Connector Push & Push - 8 pins|SD1|693071010811|SD-693071010811|1
+TDA08H0SB1|WS-DITV 2.54 mm small compact THT with raised actuator, 8p|SW1|SW8-416131160808|SW 8P|1
+SW|Switch button 4 pin|SW2|SW2-D2|SW4|1
+TXB0108||U1|TSSOP65P440X650-20N|TXB0108|1
+4067|MUX-74HC4067|UI1|SSOP65P530X850-24N|MUX-74HC4067|1
+61400826021|USB 2.0 Type A Female THR Stacked|USB1|61400826021|USB 2.0 Type A Female THR Stacked|1
+692141030100|USB 3.0 Type A|USB 1|692141030100|USB 3.0 Type A Female THR Stacked|1
